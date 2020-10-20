@@ -15,6 +15,7 @@ All projects and codes implemented during AI MAFIA course
 - Linear Regression
 - Logistic Regression
 - K Nearest Neighbours
+- K Means Clustering
 - OpenCV Face Recognition
 - Image Segmentation
 - NLP
